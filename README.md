@@ -1,4 +1,4 @@
-Instructions - angel source 3
+Instructions - angel source 3 under v1 branch
 ========
   1. Fork this repository:  https://github.com/bentoihelloworld/techxplore.git
   2. Clone the forked repository to your local system.
